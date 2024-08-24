@@ -3,36 +3,36 @@ minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale: "ko-KR"
-title: "Your Site Title"
-subtitle: "Your Subtitle"
-name: "Your Name"
-description: "Your site description"
-url: "https://yourusername.github.io"
-repository: "yourusername/yourusername.github.io"
+title: "고래뱃속"
+subtitle: "Apple Developer Academy 3rd learner Geppetto's blog"
+name: "Geppetto"
+description: "World class Developer를 꿈꾸며 학습하고 기록하는 블로그입니다."
+url: "https://saejinpark.github.io"
+repository: "geppetto/geppetto.github.io"
 
 # Site Author
 author:
-  name: "Your Name"
+  name: "Geppetto"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Your short bio"
-  location: "Your Location"
+  bio: "건축과도 같은 개발을 하고 싶습니다."
+  location: "경기도 연천"
   links:
-    - label: "Email"
+    - label: "590824@naver.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.email@example.com"
+      url: "mailto:590824@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
+      url: "https://saejinpark.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/saejinpark"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/saejinpark"
 
 # Reading Files
 include:
@@ -51,11 +51,13 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 # Archives
 category_archive:
   type: liquid
   path: /categories/
+  
 tag_archive:
   type: liquid
   path: /tags/
@@ -80,3 +82,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+search: true
+search_full_content: true  # 전체 콘텐츠 검색을 원하면 true로 설정
+search_provider: lunr  # 기본 검색 제공자
+
+head_scripts:
+  - https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
