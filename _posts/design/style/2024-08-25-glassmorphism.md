@@ -9,7 +9,7 @@ tags:
 
 글라스모피즘(Glassmorphism)은 유리나 반투명 소재의 특성을 디지털 인터페이스에 적용한 현대적 UI 디자인 트렌드입니다.
 
-<img src="/assets/images/designStyle/glassmorphism.png" />
+<img src="/assets/images/design/style/glassmorphism.png" />
 
 # 특징
 

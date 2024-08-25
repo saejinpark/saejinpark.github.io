@@ -9,7 +9,7 @@ tags:
 
 Google이 개발한 디자인 언어로, 현실 세계의 물리적 특성을 디지털 인터페이스에 적용한 디자인 스타일.
 
-<img src="/assets/images/designStyle/material.png" />
+<img src="/assets/images/design/style/material.png" />
 
 
 # 특징

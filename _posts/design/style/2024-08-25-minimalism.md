@@ -9,7 +9,7 @@ tags:
 
 미니멀리즘 디자인은 "적은 것이 더 많은 것이다(Less is More)"라는 원칙을 따르는 디자인 철학으로, 불필요한 요소를 제거하고 본질에 집중하는 접근 방식.
 
-<img src="/assets/images/designStyle/minimalism.jpeg" />
+<img src="/assets/images/design/style/minimalism.jpeg" />
 
 
 # 특징

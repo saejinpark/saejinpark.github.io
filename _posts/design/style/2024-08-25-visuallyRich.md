@@ -9,7 +9,7 @@ tags:
 
 비주얼 리치 디자인은 풍부한 시각적 요소를 활용하여 사용자의 관심을 끌고 몰입도 높은 경험을 제공하는 디자인 접근 방식입니다.
 
-<img src="/assets/images/designStyle/visuallyRich.png" />
+<img src="/assets/images/design/style/visuallyRich.png" />
 
 # 특징
 
