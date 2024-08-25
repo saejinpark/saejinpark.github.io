@@ -6,7 +6,7 @@ categories:
 tags:
   - 디자인 스타일
 ---
-<img src="/assets/images/skeuomorphism.png" />
+<img src="/assets/images/designStyle/skeuomorphism.png" />
 
 
 디지털 인터페이스에서 현실 세계의 물체나 요소를 모방하는 디자인 스타일.
