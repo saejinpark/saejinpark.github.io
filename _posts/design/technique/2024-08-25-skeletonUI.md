@@ -11,6 +11,8 @@ tags:
 콘텐츠가 로딩되는 동안 사용자에게 표시되는 시각적 플레이스홀더 기법.  
 사용자 경험을 개선하고 인지된 로딩 시간을 줄이는 데 효과적
 
+<img src="/assets/images/design/technique/skeleton.gif" />
+
 # 특징
 
 - 콘텐츠의 기본 레이아웃을 미리 보여줌
