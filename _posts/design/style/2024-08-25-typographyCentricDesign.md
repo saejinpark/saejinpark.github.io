@@ -9,7 +9,7 @@ tags:
 
 타이포그래피 중심 디자인은 텍스트를 주요 디자인 요소로 활용하여 시각적 계층구조, 정보 전달, 그리고 전반적인 사용자 경험을 형성하는 디자인 접근 방식.
 
-<img src="/assets/images/design/style/typographyCentric.png" />
+<img src="/assets/images/design/style/typographyCentric.png" alt="타이포그래피 중심 디자인 예시: 타이포그래피가 강조된 화면"/>
 
 # 특징
 

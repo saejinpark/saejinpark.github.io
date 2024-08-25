@@ -10,7 +10,7 @@ tags:
 
 정보를 독립적이고 일관된 직사각형 유닛(카드)으로 표현하는 디자인 패턴. 콘텐츠를 명확하게 구분하고 사용자 상호작용을 촉진하는 데 효과적.
 
-<img src="/assets/images/design/technique/card.png" />
+<img src="/assets/images/design/technique/card.png" alt="카드 기반 디자인 예시: 카드 모양으로 구성된 UI의 나열"/>
 
 # 특징
 

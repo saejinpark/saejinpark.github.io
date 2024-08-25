@@ -11,7 +11,7 @@ tags:
 디자인 요소들의 시각적 중요도를 체계화하여 사용자의 주의를 효과적으로 유도하는 기법.  
 정보의 우선순위를 시각적으로 표현하여 사용자 경험을 향상시킴.
 
-<img src="/assets/images/design/technique/visual.jpeg"/>
+<img src="/assets/images/design/technique/visual.jpeg" alt="비쥬얼 계층 구조 예시: 시각적 중요도를 보여주는 화면"/>
 
 # 특징
 

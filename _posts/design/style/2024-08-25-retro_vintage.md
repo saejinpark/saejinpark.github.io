@@ -9,7 +9,7 @@ tags:
 
 레트로/빈티지 UI 디자인은 과거의 디지털 인터페이스 요소를 현대적으로 재해석하여 사용자에게 독특한 경험을 제공하는 디자인 접근 방식입니다.
 
-<img src="/assets/images/design/style/retro.png" />
+<img src="/assets/images/design/style/retro.png" alt="레트로/빈티지 UI 디자인 예시: 초기 컴퓨터의 UI 요소로 구성된 화면"/>
 
 # 특징
 

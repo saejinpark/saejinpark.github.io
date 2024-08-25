@@ -9,7 +9,7 @@ tags:
 
 뉴모피즘(Neumorphism)은 새로움(New)과 골격(Morphism)의 합성어로, 소프트한 UI 요소와 배경의 조화를 강조하는 현대적 디자인 트렌드.
 
-<img src="/assets/images/design/style/neumorphism.webp" />
+<img src="/assets/images/design/style/neumorphism.webp" alt="뉴모피즘 디자인 예시: 평면적인 화면과 부드러우 그림자 효과로 표현된 입체감있는 화면"/>
 
 # 특징
 

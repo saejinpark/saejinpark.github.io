@@ -11,7 +11,7 @@ tags:
 디자인에서 의도적으로 비워둔 공간을 활용하여 가독성, 사용성, 심미성을 향상시키는 기법.
 콘텐츠 간의 관계를 명확히 하고 사용자의 시선을 효과적으로 유도함.
 
-<img src="/assets/images/design/technique/whitespace.jpeg" />
+<img src="/assets/images/design/technique/whitespace.jpeg" alt="화이트 스페이스 활용: 공백이 강조된 화면"/>
 
 # 특징
 

@@ -8,7 +8,7 @@ tags:
 ---
 미니멀리즘에 기반한 2D 디자인 스타일로, 장식적 요소를 최소화하고 단순성과 기능성을 강조하는 접근 방식.
 
-<img src="/assets/images/design/style/flat.png"/>
+<img src="/assets/images/design/style/flat.png" alt="플랫 디자인 예시: 단순한 요소와 평면적 디자인"/>
 
 # 특징
 
