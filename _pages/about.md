@@ -26,3 +26,13 @@ permalink: /about/
 
 4. **애플 디벨로퍼 아카데미** (2024.03.01 ~ 현재)
    - CBL, HIG, Swift, SwiftUI, SwiftData 등
+
+## 출시한 앱
+<ul>
+    <li>
+        <a href="https://apps.apple.com/kr/app/%ED%88%AC%EB%91%90-%ED%95%B4%EC%95%BC%ED%95%A0-%EC%9D%BC-%EC%95%B1/id6642705519">
+        <img src="/assets/images/appIcon/toDo.webp" alt="투두 앱아이콘" width="120"/>
+        투두: 해야할 일 앱
+        </a>
+    </li>
+</ul>
