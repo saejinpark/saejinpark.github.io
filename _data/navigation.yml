@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "디자인 시리즈"
+    url: /디자인/designSeriesHub/
   - title: "About"
     url: /about/
   - title: "Categories"
